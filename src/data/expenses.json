@@ -1,0 +1,15 @@
+[
+  { "id": 1, "description": "Groceries", "amount": 150, "category": "Food" },
+  {
+    "id": 2,
+    "description": "Electricity Bill",
+    "amount": 80,
+    "category": "Utilities"
+  },
+  {
+    "id": 3,
+    "description": "Movie Night",
+    "amount": 30,
+    "category": "Entertainment"
+  }
+]

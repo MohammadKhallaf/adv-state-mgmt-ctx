@@ -1,0 +1,4 @@
+[
+  { "id": 1, "description": "Pay Credit Card Bill", "dueDate": "2023-06-15" },
+  { "id": 2, "description": "Renew Gym Membership", "dueDate": "2023-06-30" }
+]
